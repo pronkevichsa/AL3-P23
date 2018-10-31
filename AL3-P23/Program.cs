@@ -10,6 +10,7 @@ namespace AL3_P23
     {
         static void Main(string[] args)
         {
+            Practice.AL3();
         }
     }
 }
