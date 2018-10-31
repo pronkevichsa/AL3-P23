@@ -59,7 +59,7 @@ namespace AL3_P23
     public class PicturePrinter : IPrinter
     {
         public void Print(string text)
-        {
+        { 
             Bitmap b = new Bitmap(200, 100);
             using (Graphics g = Graphics.FromImage(b))
             {
